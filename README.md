@@ -1,4 +1,4 @@
-<div align="center">
+<div>
  - 👋 Hi! I’m Bárbara Fonseca
  <br>
 - 💻 I'm currently working with Data analysis
@@ -7,10 +7,10 @@
  <br>
 </div>
 <br>
- <div align="center">
+ <div align ="center">
   <a href="https://github.com/BarbaraDFonseca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraDFonseca&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraDFonseca&layout=compact&langs_count=7&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraDFonseca&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   <div style="display: inline_block"><br>
